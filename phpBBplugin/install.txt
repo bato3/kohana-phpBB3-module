@@ -1,0 +1,3 @@
+Copy php file to main phpBB directory
+  - api2.php :: for phpBB 2 przemo mod
+  - api3.php :: for phpbb 3 (and before write it :P
